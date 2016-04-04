@@ -1,5 +1,4 @@
 # hello-spark
-hello-spark
 
 -find the minimum, maximum and average age of employee of each department.
 
