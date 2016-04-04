@@ -1,0 +1,9 @@
+alan,m,37,crm,4
+stephen,m,35,crm,3
+rahul,m,35,crm,2
+clearwater,m,39,crm,3
+sarah,f,25,crm,4
+jessy,f,31,sales,4
+peter,m,27,sales,3
+joel,m,38,sales,3
+chris,m,32,sales,3
